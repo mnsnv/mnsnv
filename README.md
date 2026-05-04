@@ -66,8 +66,7 @@ Get good. Build things. Break them. Fix them. Repeat until the things stop break
 
 ---
 
-#### 📫 Reach Me
+#### 📫 Reach me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domanatjong@gmail.com)
-
+📧 domanatjong@gmail.com
 🎓 Faculty of Engineering, KMUTT
