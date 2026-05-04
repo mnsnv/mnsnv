@@ -42,10 +42,12 @@ I like the part where hardware meets software — wiring up Arduinos, writing C 
 #### 🚀 Projects & Experience
 
 **🩹 Wound Detector** — *CPE101 Final Project*
+
 A full-stack web app that uses **OpenAI GPT-4o** to identify wound types and provide first-aid guidance, with real-time doctor monitoring via Socket.IO. Built with the MERN stack + TypeScript. I led the **UI/UX design**, ideation, and visual storytelling.
 🔗 [View project](https://github.com/mnsnv/wound-detector)
 
 **🥷 Ninja Alley** — *2D Fighting Game*
+
 A 2-player local-multiplayer fighting game built in **Unity** with a tactical skill system (shield + damage boost). Pair project for CPE101 — I handled **game design and UI styling**.
 🔗 [View project](https://github.com/mnsnv/ninja-alley) · [Play it](https://wasuphon-chaosahnguan.itch.io/ninja-alley)
 
