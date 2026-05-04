@@ -54,9 +54,8 @@ A 2-player local-multiplayer fighting game built in **Unity** with a tactical sk
 #### 🎯 What I'm Up To
 
 - 📚 Studying CPE at KMUTT — first year, full curiosity mode
-- 🛠️ Building small projects to scratch my own itches
-- 🏆 Prepping for the **OpenAI Codex × AIAT Hackathon Thailand**
-- 🎤 Helping run faculty events: CPE Night Market, ComCamp, Open House CPE
+- 🏆 Building small projects to scratch my own itches
+- 🛠️ Helping run faculty events: CPE Night Market, ComCamp, Open House CPE
 
 ---
 
