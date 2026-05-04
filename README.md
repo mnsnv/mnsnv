@@ -1,6 +1,8 @@
 ### Hi, I'm Manatsanan 👋
 
-I'm a first-year **Computer Engineering** student at **KMUTT** in Bangkok 🇹🇭. I like the part where hardware meets software — wiring up Arduinos, writing C until it actually compiles, and turning half-baked ideas into things that beep, blink, or run.
+I'm a first-year **Computer Engineering** student at **KMUTT** in Bangkok 🇹🇭. 
+
+I like the part where hardware meets software — wiring up Arduinos, writing C until it actually compiles, and turning half-baked ideas into things that beep, blink, or run.
 
 > 🐢 Why the turtle? Because my friends said I look like one. I didn't argue — turtles ship code too, just slowly and with style.
 
